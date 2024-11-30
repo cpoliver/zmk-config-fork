@@ -1,7 +1,7 @@
 manifest:
   remotes:
-    # - name: urob
-    # url-base: https://github.com/urob
+    - name: urob
+      url-base: https://github.com/urob
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: m165437 #new entry
